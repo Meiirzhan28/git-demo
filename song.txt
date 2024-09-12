@@ -3,4 +3,9 @@ its me
 I was enough
 one line
 
+<<<<<<< HEAD
 new world
+=======
+hello 
+i was wonder
+>>>>>>> 6e0b5eb7b757b84c6b0552a13bfa088803077ed2
