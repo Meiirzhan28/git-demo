@@ -5,8 +5,3 @@ one line
 
 last update
 
-git amend
-
-new branch 
-
-new branch 2
