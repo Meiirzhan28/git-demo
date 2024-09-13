@@ -4,3 +4,5 @@ I was enough
 one line
 
 last update
+
+git amend
